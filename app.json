@@ -1,7 +1,7 @@
 {
-  "name": "PANHWAR-MD",
-  "description": "PANHWAR MD IS THE MAKE BY USING BAILEY'S",
-  "logo": "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg",
+  "name": "DROVE-MD",
+  "description": "DROVE-MD IS HERE MADE BY USING BAILEY'S",
+  "logo": "https://i.ibb.co/Zdjh4Qs/IMG-20241113-WA0019.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg"
+      "value": "https://i.ibb.co/Zdjh4Qs/IMG-20241113-WA0019.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII I AM PROFESSOR ANSAR 🎭"
+      "value": "HI I AM ONLINE HOW CAN I HELP YOU...🎭"
     },
     
     "PREFIX": {
@@ -93,9 +93,9 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "write your name here.",
       "required": true,
-      "value": "PANHWAR MD"
+      "value": "DROVE-MD"
     }
 
 },
