@@ -1,12 +1,12 @@
 {
-  "name": "PANHWAR-MD",
+  "name": "DROVE-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Bailey's",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PANHWAR-MD",
-    "stop": "pm2 stop PANHWAR-MD",
-    "restart": "pm2 restart PANHWAR-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Drove-MD",
+    "stop": "pm2 stop Drove-MD",
+    "restart": "pm2 restart Drove-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
