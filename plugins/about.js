@@ -9,11 +9,11 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁*👋 HELLO ${pushname}*\n\n *I AM PROxANSAR*\n\n *I AM 15 YEARS OLD BOY 👑*\n\n *I AM FROM PERSNOL HAI😁🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
+let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁*👋 HELLO ${pushname}*\n\n *I AM M.Farhan Ali*\n\n *I AM 17 YEARS OLD BOY 👑*\n\n *I AM FROM Pakistan😁*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
 
 ❁ ════ ❃•⇆•❃ ════ ❁
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ PANHWAR MD*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ Walk-Drove*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
