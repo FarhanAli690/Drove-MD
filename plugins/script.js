@@ -13,13 +13,13 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ANSAR PANHWAR*
+*|* *M.Farhan Ali*
 
 > *SOBIA MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+*|* *https://github.com/FarhanAli690/Drove-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029Vank3vaLikg5ldoNdd0U*
 *╰──────────────●●►*
 
 > *update command Done*
@@ -36,11 +36,11 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'PANHWAR MD',
+title: 'FROVE-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+sourceUrl: "https://github.com/FarhanAli690/Drove-MD" ,
+thumbnailUrl: "https://i.ibb.co/Zgjh4Qs/IMG-20241113-WA0019.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
