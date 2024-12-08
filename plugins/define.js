@@ -28,7 +28,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-*MADE WITH ♥ PANHWAR MD*`;
+*MADE WITH ♥ DROVE-MD*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
